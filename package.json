@@ -1,0 +1,16 @@
+{
+  "name": "@xuanmo/prettier-config",
+  "version": "0.0.1",
+  "license": "MIT",
+  "description": "Prettier config by D-xuanmo",
+  "homepage": "https://github.com/D-xuanmo/prettier-config",
+  "repository": "git@github.com:D-xuanmo/prettier-config.git",
+  "packageManager": "yarn@3.5.1",
+  "peerDependencies": {
+    "prettier": "^3.0.0"
+  },
+  "prettier": "./config.js",
+  "publishConfig": {
+    "access": "public"
+  }
+}
